@@ -1,1 +1,1 @@
-# streak-fix
+vanilla-js-challenges
